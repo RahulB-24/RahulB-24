@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Balachandar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20B.Tech%20CS%20%40%20VIT%20Chennai&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Balachandar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-balachandar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulB-24)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul__-24/)
 
 </div>
 
@@ -21,70 +21,96 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```typescript
 const rahul = {
-  location:   "Chennai, India",
-  education:  "B.Tech CS (AI & ML) @ VIT Chennai — CGPA: 8.65",
-  currentRole: "AI Engineer Intern @ TANSAM",
-  focus:      ["Full-Stack Engineering", "ML Systems", "Cloud & DevOps"],
-  experience: ["Spring Boot", "FastAPI", "React", "LangChain", "YOLOv8"],
-  achievement: "IEEE ICERECT-2025 Conference Presenter",
-  leetcode:   "150+ Problems Solved",
-  motto:      "Ship fast. Learn faster. Build things that matter."
+  location   : "Chennai, India",
+  education  : "B.Tech CS (AI & ML) @ VIT",
+  role       : "AI Engineer Intern @ TANSAM",
+  focus      : [
+    "Software Engineering",
+    "ML Systems",
+    "Cloud & DevOps"
+  ],
+  building   : [
+    "Spring Boot", "FastAPI",
+    "React", "LangChain", "YOLOv8"
+  ],
+  highlight  : "IEEE ICERECT-2025 Presenter",
+  leetcode   : "215+ Problems Solved",
+  motto      : "Ship fast. Learn faster."
 };
 ```
+
+</td>
+<td width="45%" align="center">
+
+**Currently working on**  
+Production-grade SaaS platforms  
+and AI-powered developer tools
+
+<br/>
+
+**Learning**  
+System Design · Distributed Systems  
+Advanced ML Architecture
+
+<br/>
+
+**Ask me about**  
+Spring Boot · FastAPI · LangChain  
+Docker · PostgreSQL · React
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,cpp&theme=dark&perline=8" height="60"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### Backend
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,flask&theme=dark&perline=8" height="60"/>
 </p>
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark&perline=8" height="60"/>
 </p>
 
 ### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=8" height="60"/>
 </p>
 
 ### DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,vercel&theme=dark&perline=8" height="60"/>
 </p>
 
 ### Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8" height="60"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -97,29 +123,90 @@ const rahul = {
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| **[ExpenseOps](https://github.com/RahulB-24)** | Spring Boot · PostgreSQL · React · Docker | Multi-tenant SaaS, RBAC with Spring Security 6, 5-state approval workflow, JWT auth |
-| **[AI SQL Optimiser](https://github.com/RahulB-24)** | FastAPI · LangChain · Gemini · Pinecone | 4 parallel LLM pipelines, SSE streaming, 10+ anti-pattern detection |
-| **[LinkShelf](https://github.com/RahulB-24)** | React · Node.js · PostgreSQL · TypeScript | GIN-indexed full-text search, OG scraping, multi-browser import engine |
-| **Chlorine Detection System** | YOLOv8 · ResNet-50 · Flask · React | 92% accuracy on 500+ samples, deployed across Tamil Nadu public health facilities |
+<table>
+<tr>
 
-</div>
-
----
-
-## GitHub Stats
-
+<td width="50%" valign="top">
+<h3 align="center">ExpenseOps</h3>
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RahulB-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulB-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=RahulB-24&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="500"/>
-
+<a href="https://github.com/RahulB-24" target="_blank">
+<img src="https://img.shields.io/badge/Code-6DB33F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/RahulB-24" target="_blank">
+<img src="https://img.shields.io/badge/Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</div>
 <br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+Multi-tenant SaaS expense platform with JWT-based tenant isolation, 20+ REST endpoints, and a 5-state approval workflow. RBAC via Spring Security 6 across 4 user roles.
+</td>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RahulB-24&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
+<td width="50%" valign="top">
+<h3 align="center">AI SQL Optimiser</h3>
+<div align="center">
+<a href="https://github.com/RahulB-24" target="_blank">
+<img src="https://img.shields.io/badge/Code-6DB33F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/RahulB-24" target="_blank">
+<img src="https://img.shields.io/badge/Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+</p>
+4 parallel LLM pipelines for query explanation, issue detection, index recommendation and SQL optimization. SSE streaming with detection of 10+ SQL anti-patterns.
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">LinkShelf</h3>
+<div align="center">
+<a href="https://github.com/RahulB-24" target="_blank">
+<img src="https://img.shields.io/badge/Code-6DB33F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/RahulB-24" target="_blank">
+<img src="https://img.shields.io/badge/Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+Bookmark manager with GIN-indexed full-text search, weighted ranking, Open Graph scraping, and a multi-browser import engine supporting Chrome, Firefox and Safari.
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">Chlorine Detection System</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Deployed-Tamil%20Nadu%20Health-success?style=for-the-badge"/>
+</div>
+<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/ResNet--50-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
+Two-stage ML pipeline: YOLOv8 for ROI localization + ResNet-50 for classification (0–5 ppm). 92% accuracy on 500+ real-world samples. Reduced manual testing time by 80%.
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -129,18 +216,13 @@ const rahul = {
 
 <div align="center">
 
-**IEEE ICERECT-2025** — Conference Presenter on IEEE Xplore  
-**LeetCode** — 150+ Problems Solved  
-**Machine Learning Specialization** — DeepLearning.AI, Coursera  
-**Python for Data Science & AI** — IBM, Coursera
+<img src="https://img.shields.io/badge/IEEE%20ICERECT--2025-Conference%20Presenter-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-215%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulB-24&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-DeepLearning.AI-FF6F00?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20for%20Data%20Science%20%26%20AI-IBM-054ADA?style=for-the-badge&logo=coursera&logoColor=white"/>
 
 </div>
 
@@ -150,6 +232,6 @@ const rahul = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-**Thanks for stopping by! Let's build something great together.**
+**Thanks for stopping by. Let's build something great together.**
 
 </div>
