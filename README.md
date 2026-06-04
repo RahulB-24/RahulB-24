@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Balachandar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20B.Tech%20CS%20%40%20VIT%20Chennai&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Balachandar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20B.Tech%20CS%20%40%20VIT%20Chennai&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -112,10 +112,14 @@ const rahul = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahulB-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulB-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RahulB-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulB-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=1800" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulB-24&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="500"/>
+<img src="https://streak-stats.demolab.com?user=RahulB-24&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="500"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RahulB-24&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1"/>
 
 </div>
 
